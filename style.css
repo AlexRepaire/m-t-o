@@ -1,0 +1,33 @@
+body{
+    background-color: #367977;
+    color: white;
+    text-align: center;
+}
+#inputSearch{
+    background-color: #367977;
+    border: 0px;
+    border-bottom: 1px solid white;
+    color: white;
+    width: 200px;
+}
+#inputSubmit{
+    color: #367977;
+    border-radius: 15px;
+    border: 1px ;
+    margin-top: 20px;
+    width: 100px;
+}
+#informations_main{
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+#longitude{
+    margin-right: 40px;
+}
+#carte{
+    width: 1000px;
+    height: 500px;
+}
+#degré span{
+    font-size: 120px !important;
+}
